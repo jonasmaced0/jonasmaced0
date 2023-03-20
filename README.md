@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonas
 
 - 🔭 Interessado em Front-End
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML, CSS e JavaScript
 - 🖥️ Linkedin: Jonas Macedo
 
 <a href="https://github.com/jonasmaced0">
