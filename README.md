@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonas
 
-- 🔭 Interessado em Back-End
-- 🌱 Estudando C# e MySQL
+- 🔭 Interessado em Front-End, mas estudando o Back-End.
+- 🌱 Estudando C#, MySQL, Javascript, HTML, CSS...
 - 🖥️ Linkedin: Jonas Macedo
 
 <a href="https://github.com/jonasmaced0">
